@@ -89,7 +89,7 @@ int main() {
         default: printf("opção invalida\n"); break;
     }
     } while (opcao != 0);
-    return 0;[Uploading Documentação do Projeto.pdf…]()
+    return 0;
 
 }
 ```
